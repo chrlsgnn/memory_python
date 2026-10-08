@@ -14,5 +14,6 @@ sudo apt install python3-tk
 ```
 
 ## Lancer le jeu
+```python
 python3 memory.py
-
+```
